@@ -1,0 +1,23 @@
+
+header {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+header nav ul li {
+    display: inline-flex;
+}
+
+.my-works {
+    display: inline-block;
+}
+.hangman {
+    width: 1500px;
+}
+.run-buddy {
+    width: 750px;
+}
+
+.placeholder {
+    width: 750px;
+}
